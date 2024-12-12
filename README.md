@@ -23,3 +23,33 @@ The dataset is an Excel workbook which consists of 206 records, with eleven colu
 ##### Physcical Design
 
 ![alt text](img/physical_design.png)
+
+### Directory structure
+
+hr_database
+├── Database_Solution_Proposal.pdf: Proposal
+├── README.md: Instruction
+├── StageTableLoad.sql: Flat file to load data to the database
+├── crud
+│   ├── question1.sql
+│   ├── question2.sql
+│   ├── question3.sql
+│   ├── question4.sql
+│   ├── question5.sql
+│   └── question6.sql
+├── ddl
+│   ├── address.sql
+│   ├── department.sql
+│   ├── education.sql
+│   ├── employee.sql
+│   ├── employee_info.sql
+│   ├── job.sql
+│   ├── location.sql
+│   ├── manager.sql
+│   ├── salary.sql
+│   └── state.sql
+├── hr-dataset.xlsx: Original dataset
+└── img
+    ├── conceptual_design.png
+    ├── logical_design.png
+    └── physical_design.png
