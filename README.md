@@ -26,6 +26,7 @@ The dataset is an Excel workbook which consists of 206 records, with eleven colu
 
 ### Directory structure
 
+```
 hr_database
 ├── Database_Solution_Proposal.pdf: Proposal
 ├── README.md: Instruction
@@ -53,3 +54,4 @@ hr_database
     ├── conceptual_design.png
     ├── logical_design.png
     └── physical_design.png
+```
